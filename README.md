@@ -12,7 +12,7 @@ Puremedia is a clean and modern template for your business and portfolio website
 8. Flexslider Options in Customizer
 9. Modular Layout
 10. Page Builder Support
-11. Custom Post Types For:
+11. Custom Post Types For:-
   1. Projects
   2. Services
   3. Employees
