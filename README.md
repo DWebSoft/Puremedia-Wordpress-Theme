@@ -18,6 +18,8 @@ Puremedia is a clean and modern template for your business and portfolio website
   * Employees
   * Contact Form Messages
 
+## Demo
+For demo, visit : http://dwebpixel.com/themes/puremedia/
 
 ## Credits
 The UI template for this theme is taken from [Styleshout](http://www.styleshout.com/free-templates/puremedia/). Please do visit their website if you want free amazing HTML5 templates. These guys have bunch of them for you.
